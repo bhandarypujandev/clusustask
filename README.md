@@ -9,7 +9,7 @@ __Task :)__
 ---
 
 
-## Content Path
+## Context Path
 /clusus
 
 File upload endpoint
